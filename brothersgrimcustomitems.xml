@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+  <!--The first item is the Chromatic Collar-->
+    <element name="Chromatic Collar" type="Magic Item" source="Grimlance" id="ID_JOE_GRIMLANCE_ITEM_CHROMCOLLAR">
+        <description>
+            <p class="flavor"><strong>Dragon's Resistance</strong>: The wearer of this item can roll a D6 after a long rest to recieve one of the following effects which lasts until they finish another long rest. If the item is removed or destroyed, the effect vanishes.</p>
+            <p>1. Acid Resistance</p>
+            <p>2. Poison Resistance</p>
+            <p>3. Fire Resistance</p>
+            <p>4. Lightning Resistance</p>
+            <p>5. Cold Resistance</p>
+            <p>6. +1 bonus to AC and one resistance of choice from this list.</p>
+        </description>
+        <sheet display="true">
+          <description>
+              Dragon's Resistance: The wearer of this item can roll a D6 after a long rest to recieve one of the following effects which lasts until they finish another long rest. If the item is removed or destroyed, the effect vanishes.
+              1. Acid Resistance
+              2. Poison Resistance
+              3. Fire Resistance
+              4. Lightning Resistance
+              5. Cold Resistance
+              6. +1 bonus to AC and one resistance of choice from this list.
+          </description>
+        </sheet>
+        <setters>
+	    <set name="category">Wondrous Items</set>
+	    <set name="cost" currency="gp">0</set>
+	    <set name="weight" lb="0">0 lb.</set>
+      <set name="rarity">Rare</set>
+      <set name="attunement">false</set>
+      <set name="slot">neck</set>
+	  </setters>
+    </element>
+  <!--The second item is the ____-->
+</elements>
