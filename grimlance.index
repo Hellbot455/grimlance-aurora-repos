@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<update version="0.0.6">
+			<file name="reddit.index" url="https://raw.githubusercontent.com/aurorabuilder/elements/master/homebrew/reddit.index" />
+		</update>
+	</info>
+	<files>
+		<file name="brothersgrimcustomitems.xml" url="https://raw.githubusercontent.com/Hellbot455/grimlance-aurora-repos/master/brothersgrimcustomitems.xml" />
+	</files>
+</index>
